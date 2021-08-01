@@ -1,3 +1,3 @@
 # project-minimo
 
-https://sakhawathossainonly.github.io/project-minimo/
+https://mshossainonly.github.io/project-minimo/
